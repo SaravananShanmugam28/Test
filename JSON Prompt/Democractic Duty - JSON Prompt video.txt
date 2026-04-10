@@ -1,0 +1,44 @@
+</>JSON
+
+{
+  "title": "Democratic Duty - Vote on April 23",
+  "language": "English",
+  "video_type": "Public Awareness",
+  "duration_seconds": 08,
+  "style": "Realistic cinematic",
+  "scene": {
+    "location": "A typical Indian neighborhood street",
+    "time_of_day": "Morning",
+    "environment": "People walking, small shops open, everyday city life",
+    "mood": "Positive, inspiring, responsible"
+  },
+  "character": {
+    "role": "Common citizen",
+    "gender": "Male",
+    "age_range": "35-45",
+    "appearance": "Simple shirt and traditional attire, approachable personality",
+    "expression": "Sincere and motivating"
+  },
+  "action": {
+    "description": "The man stands in the street and speaks directly to the camera encouraging citizens to vote."
+  },
+  "dialogue": {
+    "language": "English",
+    "speech": "Dear citizens, voting is our democratic duty. On April 23, make sure you visit your polling station and cast your vote. Your vote is your voice. Your vote shapes our future. Let us all participate and strengthen our democracy."
+  },
+  "camera_shots": [
+    "Wide shot showing a lively neighborhood street",
+    "Medium shot of the man addressing citizens",
+    "Close-up showing his sincere expression while speaking",
+    "Final shot of people walking toward a polling booth"
+  ],
+  "audio": {
+    "voice_type": "Natural male voice",
+    "background_music": "Soft inspirational instrumental music",
+    "ambient_sounds": "Light street sounds and birds"
+  },
+  "ending_frame": {
+    "text": "April 23 – Cast Your Vote. Your Voice Matters.",
+    "visual_elements": "People standing in line at a polling booth with patriotic colors"
+  }
+}

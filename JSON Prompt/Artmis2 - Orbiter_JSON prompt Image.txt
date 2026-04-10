@@ -1,0 +1,9 @@
+{
+  "prompt": "Artemis 2 orbiter",
+
+  "Topic": "Artemis 2 orbiter is behind the far side of the Moon, with Earth visible in the distance", 
+
+  "Context": "The Earth is a blue marble with visible continents and clouds, partially illuminated by the sun. The moon's surface is detailed with craters and shadows, creating a sense of     depth. The orbiter is sleek and futuristic, with solar panels extended, subtly catching the sunlight. The scene conveys the vastness of space and the wonder of exploration.",
+  
+"aspectRatio": "16:9"
+}
